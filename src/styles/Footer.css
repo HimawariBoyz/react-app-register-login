@@ -1,0 +1,21 @@
+.footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 15px 20px;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+    box-shadow: 0px -4px 8px rgba(0, 0, 0, 0.1);
+    transition: background-color 0.3s ease-in-out;
+}
+
+.footer:hover {
+    background-color: #444;
+}
+
+.footer p {
+    margin: 0;
+    font-size: 14px;
+    letter-spacing: 0.5px;
+}
